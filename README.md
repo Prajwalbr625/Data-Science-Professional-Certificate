@@ -1,5 +1,4 @@
 IBM: Data Science Professional Certification
-Smiley face Smiley face
 
 IBM INSTRUCTORS
 
